@@ -1,16 +1,21 @@
-## Hi there 👋
+## Seja Bem Vindo Ao Meu Perfil ✨<3✨
 
-<!--
-**Magr0x-or-Bruno/Magr0x-or-Bruno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Prazer me chamo Bruno Leme. 
 
-Here are some ideas to get you started:
+- Estou estudando na Alura;
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo desse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato comigo no instagram 📲
+👇Clica aqui embaixinho e me segue lá po rsrsrs.👇
+
+[Magr0x <3](https://www.instagram.com/magr0x?igsh=MWc4amgyNmxnZWNubw%3D%3D)
+
+### Faço lives na TWITCH de vez em nunca, se quiser seguir lá tambémmm.
+
+👇LINK ABAIXO👇
+
+[Twitch Magr0x <3](https://www.twitch.tv/magr0x)
+
+
+![](https://media1.tenor.com/m/LajtbK1DKFoAAAAC/muichiro-tokito.gif)
