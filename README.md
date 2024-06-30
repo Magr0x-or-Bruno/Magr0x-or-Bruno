@@ -5,8 +5,8 @@ Prazer a todos, meu nome é Bruno, mas meu nome artístico é Magr0x.
 - Estou estudando na [Alura](https://cursos.alura.com.br/loginForm?urlAfterLogin=/dashboard); 
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo desse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
-
-  ### Abaixo está o meu perfil no Scratch, onde compartilho os jogos que crio enquanto faço cursos na Alura.
+ 
+ ### Abaixo está o meu perfil no Scratch, onde compartilho os jogos que crio enquanto faço cursos na Alura.
   [Meu Perfil S2](https://scratch.mit.edu/users/magr0xS2/)
 
 ### Você pode entrar em contato comigo no instagram 📲
